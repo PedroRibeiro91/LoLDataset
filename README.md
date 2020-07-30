@@ -7,3 +7,4 @@ Model applied to this dataset:
 - Kmeans
 - LDA and QDA models + comparison of performance with Logistic Regression
 - Decision Tree + Bagging + Random Forest 
+- Support Vector Machine (SVM)
